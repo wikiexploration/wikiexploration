@@ -1,0 +1,13 @@
+"Context-size:  " [36904 63 0.02997954366369714]
+"Size of base:  " 11
+[1 8917/36904 (#{} ⟶ #{"prime factor (P5236)"})]
+[1 10573/36904 (#{} ⟶ #{"numeric value (P1181)"})]
+[1 12917/36904 (#{} ⟶ #{"Mathematics Genealogy Project ID (P549)"})]
+[1 6977/36904 (#{} ⟶ #{"zbMATH author ID (P1556)"})]
+[12917/36904 4816/12917 (#{"Mathematics Genealogy Project ID (P549)"} ⟶ #{"zbMATH author ID (P1556)"})]
+[10573/36904 8902/10573 (#{"numeric value (P1181)"} ⟶ #{"prime factor (P5236)"})]
+[10573/36904 10079/10573 (#{"numeric value (P1181)"} ⟶ #{"KIT Linked Open Numbers ID (P5176)"})]
+[10079/36904 8837/10079 (#{"KIT Linked Open Numbers ID (P5176)" "numeric value (P1181)"} ⟶ #{"prime factor (P5236)"})]
+[8917/36904 8902/8917 (#{"prime factor (P5236)"} ⟶ #{"numeric value (P1181)"})]
+[4451/18452 8837/8902 (#{"numeric value (P1181)" "prime factor (P5236)"} ⟶ #{"KIT Linked Open Numbers ID (P5176)"})]
+[6977/36904 4816/6977 (#{"zbMATH author ID (P1556)"} ⟶ #{"Mathematics Genealogy Project ID (P549)"})]
